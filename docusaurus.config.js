@@ -18,13 +18,14 @@ const config = {
   url: 'https://verbrugge-docs.github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/verbrugge-docs.github.io/',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'verbrugge-docs', // Usually your GitHub org/user name.
   projectName: 'verbrugge-docs.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: 'false',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
