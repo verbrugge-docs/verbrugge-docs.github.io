@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdoc_website=self.webpackChunkdoc_website||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/verbrugge-docs.github.io/blog","blogTitle":"Blog","authorsListPath":"/verbrugge-docs.github.io/blog/authors"}')}}]);
